@@ -1,3 +1,4 @@
-    window.SVGAnim = SVGAnim;
+(function(){
+window.SVGAnim = SVGAnim;
     return SVGAnim;
 }(window || this));
